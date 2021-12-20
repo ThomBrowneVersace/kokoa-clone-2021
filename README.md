@@ -1,3 +1,3 @@
 # Kokoa Clone 2021
 
-HTML5 & CSS3 Learning!
+HTML5 & CSS3 are so much fun!!
